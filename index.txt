@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Abhay Srivastava
+Abhay Srivastava
 Web developer
 
 Show Contacts
